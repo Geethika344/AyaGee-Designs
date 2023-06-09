@@ -67,7 +67,7 @@ cursor: pointer;
 color: rgb(255, 255, 255);
 }
 ul li a:hover {
-   			background-color: rgb(129, 123, 123);
+   			background-color: rgb(255, 255, 255);
 }
 .split {
   float: right;
