@@ -33,17 +33,7 @@ h4{
   width:97%;
   height: 103%
 }
-h5{
-  color:white;
-  font-family:Arial;
-  padding:0;
-  text-align:center;
-  font-size:200%;
-  display: flex;
-  position: fixed;
-  align-items: center;
-  justify-content: center;
-}
+
 a{
   background-color:black;
   border:solid;
