@@ -61,13 +61,13 @@ nav {
   margin-left:1%;
 }
  ul li {
-  			position: relative;
-  			margin: 15px 20px;
-  			list-style: none;
-  			display: inline;
-  			padding:2px;
-  			font-size:140%;
-  			font-family: georgia;
+  position: relative;
+  margin: 15px 20px;
+  list-style: none;
+  display: inline;
+  padding:2px;
+  font-size:140%;
+  font-family: georgia;
 }
 
 ul li a{
