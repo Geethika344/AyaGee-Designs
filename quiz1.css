@@ -134,11 +134,10 @@ a{
   margin-bottom: .2em;
   color:white;
   font-family:georgia;
-  height:100%;
   width:10%;
   position:relative;
   left:43%;
-  top:400px;
+  top:500px;
 }
 a:hover{
   background-color:white;
