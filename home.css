@@ -1,0 +1,39 @@
+body{
+  background-color:black; 
+}
+.title{
+color:white;
+  font-family:Georgia;
+  padding:0;
+  font-size:320%;
+  text-align:center;
+}
+
+.mission{ 
+position:absolute;left:30px;bottom:50px;
+  background-color: white;
+  width: 45%;
+  text-align:center;
+  font-size:18px;
+  background-color:black;
+  color:white;
+}
+.paragraph{
+  font-size:80%;
+}
+
+h1{
+  color:white;
+}
+.contact{  position:relative;bottom:-160px;left:5%;
+  border-left:1px solid white;
+  color:white;
+  float:right;
+  width: 50%;
+  text-align:center;
+  font-size:18px;
+  
+}
+h2{
+  font-size:200%;
+}
