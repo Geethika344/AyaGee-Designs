@@ -124,19 +124,6 @@ h4{
 }
 
 a{
-  background-color:black;
-  border:solid;
-  display:block;
-  width: 8em;
-  height: 2em;
-  text-decoration: none;
-  padding: 5px;
-  margin-bottom: .2em;
-  color:white;
-  font-family:georgia;
-  position:relative;
-  left:43%;
-  top:450px;
 }
 a:hover{
   background-color:white;
