@@ -1,11 +1,12 @@
 body{
-  background-image:url(https://i.postimg.cc/jjJfNy7N/Copy-of-Design-Cri-B-General-Product-Webpage-prototype-1-Geethika-Tatineni.png);
+  background-image:url(https://i.ibb.co/xXBr9nJ/agau.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   padding: 0px;
-  margin: -1px;
+  margin: 0px;
   border: 0px;
 }
+
 .dropbtn {
   color: white;
   padding: 0%;
@@ -86,34 +87,68 @@ ul li a:hover {
 .name{
 color:white;
   font-family:Georgia;
-  padding:0;
-  font-size:320%;
+  font-size:800%;
   text-align:center;
+  margin:29px;
+  border:0px;
+  padding:0px;
 }
 
-.mission{ 
-position:absolute;left:30px;bottom:50px;
-  width: 45%;
+.row {
+  background-image:url("https://i.ibb.co/MM9hmxc/image.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+.column {
+  float:left;
+  width:50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+h2 {
+  font-size: 5vw;
+  text-align: center;
+  font-family: georgia;
+  color: white;
+  margin-top:18%;
+}
+.paragraph {
+  color:white;
+  font-family:georgia;
+  font-size:1.5vw;
   text-align:center;
-  font-size:18px;
-  color:white;
+  margin:3%;
 }
-.paragraph{
-  font-size:80%;
-}
-
-h1{
+.info {
   color:white;
-}
-.contact{  position:relative;bottom:-160px;left:5%;
-  border-left:1px solid white;
-  color:white;
-  float:right;
-  width: 50%;
+  font-family:georgia;
+  font-size:1.7vw;
   text-align:center;
-  font-size:18px;
-  
+  margin-top:3%;
 }
-h2{
-  font-size:200%;
+h3 {
+  color:white;
+  font-family:georgia;
+  font-size:3vw;
+  text-align:center;
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+button {
+  text-align: center;
+  color:white;
+  font-family:georgia;
+  font-size:150%;
+  background-color:black;
+  border-color:white;;
+  padding-left:2%;
+  padding-right:2%;
+  margin-left:25%;
 }
