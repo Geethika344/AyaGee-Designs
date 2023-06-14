@@ -85,7 +85,7 @@ ul li a:hover {
   text-decoration:none;
 }
 .CartContainer{
-   width: 150px;
+   width: 150%;
    height: 70%;
    background-color: white;
    border-radius: 20px;
